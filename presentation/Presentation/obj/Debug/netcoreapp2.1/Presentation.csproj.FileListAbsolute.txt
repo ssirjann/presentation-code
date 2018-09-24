@@ -1,0 +1,11 @@
+C:\Users\Sirjan\source\repos\Presentation\Presentation\bin\Debug\netcoreapp2.1\Presentation.deps.json
+C:\Users\Sirjan\source\repos\Presentation\Presentation\bin\Debug\netcoreapp2.1\Presentation.runtimeconfig.json
+C:\Users\Sirjan\source\repos\Presentation\Presentation\bin\Debug\netcoreapp2.1\Presentation.runtimeconfig.dev.json
+C:\Users\Sirjan\source\repos\Presentation\Presentation\bin\Debug\netcoreapp2.1\Presentation.dll
+C:\Users\Sirjan\source\repos\Presentation\Presentation\bin\Debug\netcoreapp2.1\Presentation.pdb
+C:\Users\Sirjan\source\repos\Presentation\Presentation\obj\Debug\netcoreapp2.1\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Sirjan\source\repos\Presentation\Presentation\obj\Debug\netcoreapp2.1\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Sirjan\source\repos\Presentation\Presentation\obj\Debug\netcoreapp2.1\Presentation.AssemblyInfoInputs.cache
+C:\Users\Sirjan\source\repos\Presentation\Presentation\obj\Debug\netcoreapp2.1\Presentation.AssemblyInfo.cs
+C:\Users\Sirjan\source\repos\Presentation\Presentation\obj\Debug\netcoreapp2.1\Presentation.dll
+C:\Users\Sirjan\source\repos\Presentation\Presentation\obj\Debug\netcoreapp2.1\Presentation.pdb
